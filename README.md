@@ -4,7 +4,7 @@ Discriminative models often face a trade-off between data likelihood and classif
 
 ### Figures
 
-![image](https://github.com/user-attachments/assets/60b76aa5-5ee0-47b2-91c0-355420299ac2)
+<img src="https://github.com/user-attachments/assets/60b76aa5-5ee0-47b2-91c0-355420299ac2" alt="image" width="500" height="300" />
 
 
 ### Algorithm
