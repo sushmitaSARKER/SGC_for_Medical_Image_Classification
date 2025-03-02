@@ -14,7 +14,6 @@ Discriminative models often face a trade-off between data likelihood and classif
 <img src="https://github.com/user-attachments/assets/c6babefa-c624-4d41-8ef1-6eda1cdc1ba4" alt="image" width="650" height="400" />
 
 
-
 ### Results
 
 <img src="https://github.com/user-attachments/assets/b5d3a729-080d-4382-912a-3acb00d97e50" alt="image" width="650" height="250" />
